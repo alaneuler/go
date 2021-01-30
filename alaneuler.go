@@ -1,8 +1,9 @@
+// This is doc for package alaneuler
 package alaneuler
 
-var Alaneuler = "Alaneuler"
+var Name = "Alaneuler"
 
+// Say return the Name
 func Say() string {
-	return Alaneuler
+	return Name
 }
-
